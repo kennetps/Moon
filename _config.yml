@@ -1,7 +1,7 @@
 # Site
-title:              Pioneros en soluciones de seguridad web en Bolivia
-bio:                'Protejase usted tambien'
-description:        "Whitehat Frog es una iniciativa que se encarga de resolver problemas respecto a las amenazas que se encuentran en la web"
+title:              WhiteHat Frog
+bio:                'Defend yourself'
+description:        'Whitehat Frog is a intiative dedicated to provide ethical hacking solutions for everybody'
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
@@ -26,41 +26,41 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   taylantatli
+disqus_shortname:   WhiteHatFrog
 
 # Social
 # if you don't have any of social below, comment the line.
 #google:
-  #plus:            #username
+  #plus:            100957147681673346304
   #analytics:
   #verify:
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:
-twitter:            username
-facebook:           username
+email:               Kennetps@gmail.com
+twitter:             KPSbrennan
+facebook:            Kennetps
 #github-url:         username
-#stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:          username
-#xing:              username
-instagram:          username
-#lastfm:            username
-#tumblr:            username
-#medium:            '@username'
-#pinterest:         username
-#foursquare:        username
+#stackoverflow:      123456/username   from a "http://stackoverflow.com/users/123456/username" link
+linkedin:            kenneth-perez-salazar-60059240
+#xing:               username
+#instagram:          username
+#lastfm:             username
+#tumblr:             username
+#medium:             '@username'
+#pinterest:          username
+#foursquare:         username
 #steam:              username
-#dribbble:          username
-#youtube:           username
-#youtube-channel:   channel
-#soundcloud:        username
-#weibo:             username
-#flickr:            username
-#codepen:           username
-#keybase:           username
-#xmpp:              username@server.com
-#hackernews:        username
+#dribbble:           username
+#youtube:            username
+#youtube-channel:    channel
+#soundcloud:         username
+#weibo:              username
+#flickr:             username
+#codepen:            username
+#keybase:            username
+#xmpp:               username@server.com
+#hackernews:         username
 
 # Gems
 gems:
